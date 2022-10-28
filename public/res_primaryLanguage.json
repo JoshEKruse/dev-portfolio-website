@@ -81,37 +81,101 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+	"company": "YetiBooks",
+	"title": "Data Engineer Contractor",
+	"years": "May.2022 - present",
+	"mainTech" : [
+          "Python"
+	],
+	"technologies": [
+	  "BigQuery",
+	  "Looker Studio",
+	  "Google Cloud",
+	  "dbt"
+	]
+      },
+      {
+	"company": "DriveTime",
+	"title": "Developer III, Business Intelligence",
+	"years": "May.2022 - present",
+	"mainTech" : [
+          "Python"
+	],
+	"technologies": [
+	  "Snowflake",
+	  "Argo",
+	  "Azure",
+	  "T-Sql",
+	  "SSIS"
+	]
+      },
+      {
+	"company": "DriveTime",
+	"title": "Business Intelligence Developer II",
+	"years": "Nov.2021 - May.2022",
+	"mainTech" : [
+          "Python"
+	],
+	"technologies": [
+	  "Snowflake",
+	  "Argo",
+	  "Azure",
+	  "T-Sql",
+	  "SSIS"
+	]
+      },
+      {
+	"company": "DriveTime",
+	"title": "Business Intelligence Developer I",
+	"years": "Dec.2020 - Nov.2021",
+	"mainTech" : [
+          "Python"
+	],
+	"technologies": [
+	  "Argo",
+	  "Azure",
+	  "Snowflake",
+	  "T-Sql",
+	  "SSIS"
+	]
+      },
+      {
+	"company": "DriveTime",
+	"title": "Database Developer Intern",
+	"years": "Jun.2020 - Nov.2020",
+	"mainTech" : [
+          "Snowflake"
+	],
+	"technologies": [
+	  "Python",
+	  "T-Sql"
+	]
+      },
+      {
+        "company": "Soundscapes 2 Landscapes",
+        "title": "Front-End Developer, Data Scientist",
+        "years": "August.2019 - May.2020",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Python",
+          "Flask",
+          "TensorFlow"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "NAU Open Source Lab",
+        "title": "Undergraduate Researcher",
+        "years": "August.2019 - June.2019",
         "mainTech": [
-          "Angular 7/8"
+          "Python"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "MongoDB",
+          "SqlLite",
+          "Sentiment Analysis",
+          "pyplot"
         ]
       }
     ]
